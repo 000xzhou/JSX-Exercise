@@ -1,0 +1,16 @@
+.Tweet {
+  margin-bottom: 1rem;
+  border: 1px solid saddlebrown;
+  padding: 1rem;
+}
+.Tweet h3 {
+  margin: 0;
+}
+
+.Tweet div {
+  color: gray;
+}
+
+.Tweet p {
+  padding-left: 1rem;
+}
